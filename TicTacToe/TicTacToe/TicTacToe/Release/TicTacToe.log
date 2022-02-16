@@ -1,0 +1,42 @@
+﻿  Application.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Application.cpp(1,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  BoxEmitter.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  CircleEmitter.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  ColorAffector.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  EmitterShape.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  GameObject.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  GravityAffector.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Main.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  MyPhoton.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  ParticleAffector.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  ParticleObject.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  ParticleSystem.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  RingEmitter.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  RotatorAffector.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  ScaleAffector.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Sprite.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\Sprite.h(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  TicTacToe.cpp
+E:\KDU\September 2020\Data Comm & Networking\TicTacToe\TicTacToe\TicTacToe.cpp(1,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory

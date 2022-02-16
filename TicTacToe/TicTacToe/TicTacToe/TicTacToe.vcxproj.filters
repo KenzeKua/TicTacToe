@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Addons">
+      <UniqueIdentifier>{26df7486-a97b-4cbc-afa7-782744bdb02d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Addons">
+      <UniqueIdentifier>{4a722f5c-586e-495f-bf8d-4bf88d4702e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameEngine">
+      <UniqueIdentifier>{f3710e33-2dce-4f31-b24f-2b82ba09d40f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameEngine">
+      <UniqueIdentifier>{9d420995-a7d0-4a09-b698-4862e806286e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="matrix.cpp">
+      <Filter>Source Files\Addons</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPhoton.cpp">
+      <Filter>Source Files\Addons</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxEmitter.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleEmitter.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorAffector.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="EmitterShape.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GravityAffector.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleAffector.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleObject.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="RingEmitter.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="RotatorAffector.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="ScaleAffector.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TicTacToe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="matrix.h">
+      <Filter>Header Files\Addons</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>Header Files\Addons</Filter>
+    </ClInclude>
+    <ClInclude Include="bitmap.h">
+      <Filter>Header Files\Addons</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPhoton.h">
+      <Filter>Header Files\Addons</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxEmitter.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleEmitter.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorAffector.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="EmitterShape.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GravityAffector.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleAffector.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleObject.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="RingEmitter.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="RotatorAffector.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="ScaleAffector.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="TicTacToe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
